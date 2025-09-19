@@ -44,7 +44,8 @@ if __name__ == "__main__":
     main()
 ~~~
 # OUTPUT
-<img width="1920" height="987" alt="Screenshot 2025-09-12 131550" src="https://github.com/user-attachments/assets/a242f749-ff8a-422e-9dfa-5d466e27d72b" />
+<img width="1915" height="1023" alt="image" src="https://github.com/user-attachments/assets/3e77bb41-b400-4f40-bef4-ddbbef3d67a1" />
+
 
 # RESULT
 the program is executed successfully
